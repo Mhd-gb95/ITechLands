@@ -66,7 +66,7 @@ Ce projet consiste à concevoir et déployer une infrastructure réseau sécuris
 
 ### 📷 Aperçu (optionnel)
 
-*(Ajoute ici un schéma réseau ou des captures d’écran)*
+*(tp.png)*
 
 ---
 
